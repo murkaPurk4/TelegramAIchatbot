@@ -1,8 +1,2 @@
-asyncio
-random
 requests
 aiogram
-
-
-
-
